@@ -66,6 +66,6 @@ code .
 
 ### After Editing JS file
 
-![image JS file editing](./assets/Images/Screencapture-1.png "Website after ")
+![image JS file editing](./Assets/Images/Screencapture-1.png "Website after ")
 
-![image JS file editing](./assets/Images/Screencapture-2.png "Website after ")
+![image JS file editing](./Assets/Images/Screencapture-2.png "Website after ")
