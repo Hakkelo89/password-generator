@@ -54,7 +54,7 @@ Criteria for the password:
 
 ```
 git clone git@github.com:Hakkelo89/password-generator.git
-cd homework-week-1
+cd password-generator
 code .
 ```
 
