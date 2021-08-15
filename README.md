@@ -6,7 +6,7 @@ Click [here](https://hakkelo89.github.io/password-generator/) to view project on
 
 ## Description
 
-e’ve given some starter code
+We’ve given some starter code
 We’re generating a password that INCLUDES special characters!
 So we’re providing the user a series of prompts for the criteria.
 
